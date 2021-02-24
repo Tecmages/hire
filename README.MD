@@ -14,45 +14,45 @@
 #### Essenciais
 
 ##### Linguagens, Frameworks e Relacionados
-OctoberCMS, Laravel, PHP
-HTML, CSS e JS
-NPM e Composer
-Webpack
-Bootstrap
+- OctoberCMS, Laravel, PHP
+- HTML, CSS e JS
+- NPM e Composer
+- Webpack
+- Bootstrap
 
 ##### Bases de Dados
-MySQL ou MariaDB
+- MySQL ou MariaDB
 
 ##### Outros
-Git
-Linux e Linha de Comando
+- Git
+- Linux e Linha de Comando
 
 #### Extra
 
 ##### Linguagens, Frameworks e Relacionados
-ReactJS
-VueJS
-Sass
-Linters
-Material Design
+- ReactJS
+- VueJS
+- Sass
+- Linters
+- Material Design
 
 ##### Outros
-Apache
-Nginx
-cPanel
-Laragon
-SSH
+- Apache
+- Nginx
+- cPanel
+- Laragon
+- SSH
 
 ### Requisitos de Comunicação e Desenvolvimento
-Scrum e Metodologias Ágeis
-Slack
-Trello
-Inglês
+- Scrum e Metodologias Ágeis
+- Slack
+- Trello
+- Inglês
 
 ### Requisitos Pessoais
-Iniciativa para analisar problemas e propor soluções
-Aprendizado e aprofundamento das tecnologias
-...
+- Iniciativa para analisar problemas e propor soluções
+- Aprendizado e aprofundamento das tecnologias
+- ...
 
 ### Processo de candidatura
 1. Resolver o [Desafio Prático](FULLSTACK.MD).
