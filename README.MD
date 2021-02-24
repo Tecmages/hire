@@ -13,7 +13,7 @@
 
 ### Processo de candidatura
 1. Resolver o [Desafio Prático](FULLSTACK.MD).
-2. Preencher o [formulário de candidatura](#) e enviar a solução ao desafio.
+2. Preencher o [Formulário de Candidatura](#) e enviar a solução ao desafio.
 3. Aguardar resultado preliminar.
 4. Entrevista pessoal e técnica.
 5. Aguardar resultado final.
