@@ -27,32 +27,35 @@
 ## O que você precisa?
 - Seu próprio material de trabalho (computador e/ou notebook) e acesso à internet.
 - Conhecer metodologias ágeis.
-- Experiência com a nossa stack tecnológica (ver abaixo).
+- Experiência com a nossa stack tecnológica (ver abaixo) e vontade para aprender ou aprofundar o que precisar.
 - Conhecimento intermediário de inglês (técnico).
 
 ## Nossa Stack Tecnológica
 
 ### Esses são essenciais (1 ano ou +)
-- OctoberCMS, Laravel e PHP
+- Laravel e PHP
 - HTML, CSS e JS
 - NPM e Composer
-- Webpack
 - Bootstrap
 - MySQL ou MariaDB
 - Git
+
+### Esses são muito desejáveis
+- OctoberCMS
+- Webpack
 - Linux e Linha de Comando
+- Apache ou Nginx
+- SSH
+- Gitflow
 
 ### Esses são desejáveis
 - ReactJS
 - Sass
 - Linters
 - Material Design
-- Apache e Nginx
 - cPanel
 - Laragon
-- SSH
 - Testes
-- Gitflow
 - Docker
 
 ## Como você pode se candidatar?
@@ -63,4 +66,4 @@
 
 **Agradecemos o interesse pela vaga!** Qualquer dúvida, não exite em nos contactar através do email **[comercial@tecmages.com](mailto:comercial@tecmages.com)**.
 
-**[Tecmages](https://tecmages.com**
+**[Tecmages](https://tecmages.com)**
