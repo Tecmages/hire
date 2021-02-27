@@ -18,6 +18,8 @@ Desenvolver uma aplicação a partir do [OctoberCMS](https://octobercms.com/) e 
 - Deve criar um componente que retorne a informação criada na base de dados (não esqueça de mostrar visualmente com o Bootstrap).
 - Deve aplicar o componente na página do **Meu Currículo**.
 
+5. É importante que os *commits* do seu repositório contenham textos descritivos e sejam modularizados (nada de *commits* gigantes encolvendo diversas funcionalidades e ajustes).
+
 ### Opcionais/Extras
 - Utilizar o [Railab.Translate](https://octobercms.com/plugin/rainlab-translate) para incluir a língua **pt-BR** como principal e manter a **en** como secundária. Adicionar no menu alguma forma de alternar entre as línguas. Não esqueça de colocar a página estática do currículo em ambas as línguas criadas.
 
