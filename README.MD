@@ -1,15 +1,39 @@
 # Desenvolvedor Web Full-Stack
 
-## Resumo
-- Local: remoto.
-- Experiência: um ano ou mais.
-- Remuneração e carga horaria: a negociar, conforme a carga horária.
-- Principal atribuição: programação web full-stack.
+## Sobre a vaga
+- A carga horária pode ser negociada (*full-time* ou *part-time*).
+- A remuneração vai depender da carga horária negociada.
 
-## Requisitos Tecnológicos
+## Como trabalhamos?
+- O trabalho é remoto.
+- A comunição na equipe é dividida em momentos síncronos (reuniões online) e assíncronas (Slack, Trello, WhatsApp etc).
+- Os horários são flexíveis, ou seja, você pode montar seu próprio horário de trabalho, exceto em momentos que sejam necessários uma disponibilização do seu tempo para reuniões de equipe e atendimento aos clientes.
+- Todos temos nossas funções principais (ex: programador, gestor), mas contribuímos de forma horizontal ao crescimento da equipe também (decisões de melhoria etc).
 
-### Essenciais
-- OctoberCMS, Laravel, PHP
+## O que procuramos? Alguém que...
+- Seja responsável com seus afazeres e comunicativo com a equipe.
+- Goste de desafios e seja proativo para solucionar problemas (seja o primeiro a propor melhorar as coisas como estão).
+- Seja criativo e que promova discussões e debates construtivos na equipe.
+- Consiga equilibrar sua jornada de trabalho com as demais atividades do dia-a-dia.
+
+## O que você irá fazer?
+- Construir aplicações e websites, inclusive APIs.
+- Implementar novas funcionalidades em aplicações existentes.
+- Corrigir bugs em aplicações existentes.
+- Contribuir à melhoria dos processos de desenvolvimento de aplicações e comunicação da equipe.
+- Participar do desenvolvimento de novas ideias e arquiteturas de projetos.
+- Suporte às atividades em geral relacionadas à tecnologia da informação.
+
+## O que você precisa?
+- Seu próprio material de trabalho (computador e/ou notebook) e acesso à internet.
+- Conhecer metodologias ágeis.
+- Experiência com a nossa stack tecnológica (ver abaixo).
+- Conhecimento intermediário de inglês (técnico).
+
+## Nossa Stack Tecnológica
+
+### Esses são essenciais (1 ano ou +)
+- OctoberCMS, Laravel e PHP
 - HTML, CSS e JS
 - NPM e Composer
 - Webpack
@@ -18,32 +42,23 @@
 - Git
 - Linux e Linha de Comando
 
-### Extra
+### Esses são desejáveis
 - ReactJS
-- VueJS
 - Sass
 - Linters
 - Material Design
-- Apache
-- Nginx
+- Apache e Nginx
 - cPanel
 - Laragon
 - SSH
+- Testes
+- Gitflow
+- Docker
 
-## Requisitos de Comunicação e Desenvolvimento
-- Scrum e Metodologias Ágeis
-- Slack
-- Trello
-- Inglês
-
-## Requisitos Pessoais
-- Iniciativa para analisar problemas e propor soluções
-- Aprendizado e aprofundamento das tecnologias
-- ...
-
-## Processo de candidatura
+## Como você pode se candidatar?
 1. Resolver o [Desafio Prático](FULLSTACK.MD).
-2. Preencher o [Formulário de Candidatura](#) e enviar a solução ao desafio.
-3. Aguardar resultado preliminar.
-4. Entrevista pessoal e técnica.
-5. Aguardar resultado final.
+2. Preencher o [Formulário de Candidatura (TODO)](#), enviar a solução ao desafio e aguardar o resultado.
+3. Entrevista pessoal e técnica.
+4. Resultado final.
+
+**Agradecemos o interesse pela vaga!** Qualquer dúvida, não exite em nos contactar através do email **[comercial@tecmages.com](mailto:comercial@tecmages.com)**.
